@@ -27,7 +27,7 @@
     :alt: PyScaffold logo
     :align: center
 
-|
+### Please use the original project instead of this one...i just learn from this and might be altered###
 
 PyScaffold helps you setup a new Python project. Just install it with::
 
